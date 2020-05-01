@@ -114,7 +114,7 @@ int main()
 		
 		printf("\n Calculadora Conversora de Bases: \n\n");
 		printf("\n Converter número Octal para Decimal\n");
-		printf(" Digite um número em Octal: ");
+		printf(" Digite um código em Octal: ");
 		scanf("%o",&Oct_num);
 		printf (" O Número Octal %o equivale ao Decimal: %d \n",Oct_num, Oct_num);
         printf("\n\n Precione qualquer tecla para voltar ao menu\n");
